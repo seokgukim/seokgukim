@@ -2,7 +2,7 @@
 
 Eternal **Problem Solver**, on a next adventure in code.
 
-<img width="1280" alt="seokgukim_key_visual" src="https://github.com/user-attachments/assets/98d2eaea-9bf2-4d37-bb3e-cc6663ec5750" />
+<img width="50%" alt="seokgukim_key_visual" src="https://github.com/user-attachments/assets/98d2eaea-9bf2-4d37-bb3e-cc6663ec5750" />
 
 ---
 
