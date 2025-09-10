@@ -2,7 +2,7 @@
 
 Eternal **Problem Solver**, on a next adventure in code.
 
-![seokgukim](https://sd.seokgukim.co.kr/obsidian/share/Symbol_SeokguKim_wb.png)
+![seokgukim](https://github.com/SeokguKim/seokgukim.github.io/assets/43718966/187cd9b3-94ef-4661-bf2f-abc1a2503b90)
 
 ---
 
