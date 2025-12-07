@@ -21,10 +21,11 @@ Eternal **Problem Solver**, on a next adventure in code.
   </p>
 
 - 🌟 **My Projects:**
+  - [**mlua.nvim**](https://github.com/seokgukim/mlua.nvim): A Neovim plugin for MapleStory Worlds mlua language support.
+  - [**blog**](https://github.com/seokgukim/blog): The source for my personal blog, built with Next.js.
   - [**problem-solving**](https://github.com/seokgukim/problem-solving): A repository where I document my solutions to various algorithmic challenges.
   - [**dotfiles**](https://github.com/seokgukim/dotfiles): My personal configuration for Neovim and other tools, optimized for a seamless workflow.
-  - [**blog**](https://github.com/seokgukim/blog): The source for my personal blog, built with Next.js.
-
+  
 - 💪🎮 **Beyond the Keyboard:**
   - I'm dedicated to regular workouts, which keep my mind sharp and focused.
   - Gaming is one of my core passions, and I'm a huge fan of the [**Ys**](https://www.falcom.co.jp/ys) series.
