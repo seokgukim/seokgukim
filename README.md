@@ -34,7 +34,7 @@ Eternal **Problem Solver**, on a next adventure in code.
 
 ### 📫 Contact
 
-- 🌐 **Website:** [seokgukim.co.kr](https://seokgukim.co.kr)
+- 🌐 **Website:** [blog.seokgukim.com](https://blog.seokgukim.com)
 - 📧 **Email:** <rokja97@naver.com>
 
 ---
